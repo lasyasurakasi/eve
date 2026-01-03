@@ -44,3 +44,4 @@ Open your browser and visit http://localhost:3000
 * https://github.com/ibaiGorordo/ONNX-SAM2-Segment-Anything
 * https://github.com/lucasgelfond/webgpu-sam2
 * https://github.com/microsoft/onnxruntime-inference-examples
+
